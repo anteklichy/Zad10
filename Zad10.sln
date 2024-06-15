@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad10", "Zad10\Zad10.csproj", "{D2B7BC62-34BC-4C94-B053-77EC7C2B73F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B7BC62-34BC-4C94-B053-77EC7C2B73F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B7BC62-34BC-4C94-B053-77EC7C2B73F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B7BC62-34BC-4C94-B053-77EC7C2B73F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B7BC62-34BC-4C94-B053-77EC7C2B73F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
